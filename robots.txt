@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# sitemap reference
+everage at least one newline between directives
+Sitemap: https://www.revenuesignalai.com/sitemap.xml
